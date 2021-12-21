@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Musika">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/sdsar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:text="Mainkan Musik"
+            />
+        <ImageButton
+            android:id="@+id/ple"
+            android:layout_width="100dp"
+            android:paddingTop="20dp"
+            android:background="@drawable/playic"
+            android:layout_height="100dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:id="@+id/smsl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:text="Simpan Musik"
+            />
+        <ImageButton
+            android:id="@+id/sav"
+            android:layout_width="100dp"
+            android:paddingTop="20dp"
+            android:background="@drawable/saveic"
+            android:layout_height="100dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:id="@+id/msktam"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:text="Data Musik"
+            />
+        <ImageButton
+            android:id="@+id/datas"
+            android:layout_width="100dp"
+            android:paddingTop="20dp"
+            android:background="@drawable/datamusik"
+            android:layout_height="100dp"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+
+</RelativeLayout>

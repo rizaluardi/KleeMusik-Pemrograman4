@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Klee Musik</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="rumahnya">Home</string>
+    <string name="ds_musik">Musik</string>
+    <string name="fg_person">Person</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="result_musik">result musik</string>
+    <string name="result_artis">result artis</string>
+    <string name="data_masih_kosong">DATA MASIH KOSONG</string>
+    <string name="list_data_musik">LIST DATA MUSIK</string>
+    <string name="lihat_musik">lihat musik</string>
+    <string name="hapus_data_musik">hapus data musik</string>
+    <string name="tambah_musik">tambah musik</string>
+    <string name="tambah_data_musik">Cardview/Recyclerview Tambah Data Musik</string>
+    <string name="musik">Musik</string>
+    <string name="artis">Artis</string>
+    <string name="tambah_data">tambah data</string>
+    <string name="kbhui">Kembali Ke Halaman Utama</string>
+</resources>
